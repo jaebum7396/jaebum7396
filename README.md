@@ -1,6 +1,5 @@
 ## 안녕하세요 개발자 주재범입니다. 👋 [![Hits](https://hits.sh/github.com/jaebum7396.svg)](https://hits.sh/github.com/jaebum7396)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaebum7396&hide=css&layout=compact)](https://github.com/jaebum7396/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaebum7396)](https://github.com/jaebum7396/github-readme-stats)
 
 #### [aflk](https://github.com/jaebum7396/aflk) - MSA(Micro Service Architecture)로 진행중인 채팅 어플리케이션 프로젝트 입니다.
