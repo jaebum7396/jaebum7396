@@ -1,5 +1,4 @@
 ## 안녕하세요 개발자 주재범입니다. 👋 [![Hits](https://hits.sh/github.com/jaebum7396.svg)](https://hits.sh/github.com/jaebum7396)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaebum7396&hide=css)](https://github.com/jaebum7396/github-readme-stats)
 <div>
   <img src="https://img.shields.io/badge/JAVA-e51f24?style=for-the-badge&logo=java&logoColor=white">
