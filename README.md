@@ -20,4 +20,6 @@
 </div>
 
 #### [broadcasting](https://github.com/jaebum7396/broadcasting) - 머신러닝과 소켓서버를 활용한 금융시장 가격 예측 및 지표 스트리밍
-#### [aflk](https://github.com/jaebum7396/aflk) - MSA(Micro Service Architecture)로 진행중인 채팅 어플리케이션 프로젝트 입니다.
+#### [car-rental](https://github.com/jaebum7396/car-rental) - 헥사고날 아키텍쳐를 적용한 자동차 렌탈 API 프로젝트
+#### [aflk](https://github.com/jaebum7396/aflk) - MSA(Micro Service Architecture)로 진행중인 채팅 어플리케이션 프로젝트
+
