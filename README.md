@@ -19,5 +19,6 @@
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 </div>
 
-#### [SOMEWHERE](https://github.com/jaebum7396/destiny-post) - LLM을 활용한 궁합 기반 랜덤채팅 어플리케이션
+#### [의정활동 아카이브](https://github.com/jaebum7396/legislative-archive) - 대한민국 국회 의정활동을 객관적으로 기록하고 공개하는 서비스
+#### [SOMEWHERE](https://github.com/jaebum7396/somewhere) - LLM을 활용한 궁합 기반 랜덤채팅 어플리케이션
 #### [꼬순내신당](https://github.com/jaebum7396/pet-fortune) - 반려동물을 위한 운세 서비스를 제공하는 웹 애플리케이션
